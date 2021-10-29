@@ -1,5 +1,5 @@
 Curso de platzi para 
-Tengo 25 años !!!
+Tengo 30 años !!!
 y soy de Guatemala
 
 Para probar comandos de git
